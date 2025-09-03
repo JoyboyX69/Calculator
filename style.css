@@ -82,3 +82,20 @@ button {
         margin: 8px;
     }
 }
+
+@media(max-width:355px) {
+    h1 {
+        font-size: 15px;
+    }
+
+    .content input {
+        font-size: 20px;
+    }
+
+    button {
+        width: 40px;
+        height: 40px;
+        font-size: 15px;
+        margin: 5px;
+    }
+}
